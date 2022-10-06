@@ -1,0 +1,352 @@
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\sourcecode\WorkerBalanceIntrajasa\WorkerEmail\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sourcecode\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\Source Code Service\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\Source Code Service\service_timah\WorkerGetKursPajak\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
